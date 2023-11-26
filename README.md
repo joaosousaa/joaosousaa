@@ -1,4 +1,4 @@
-##Oi eu sou João Sousa, bem vindo ao meu GitHub!
+## Oi eu sou João Sousa, bem vindo ao meu GitHub!
 
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
