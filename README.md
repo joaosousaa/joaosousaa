@@ -2,7 +2,6 @@
 
 
 <div style="display: inline_block"><br>
-     
     Tecnologias e Ferramentas:
     <br>
     <br>
