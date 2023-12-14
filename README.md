@@ -1,4 +1,4 @@
-## Oi eu sou João Sousa, bem vindo ao meu GitHub!
+## Oi DEV, eu sou João Sousa, bem vindo ao meu GitHub!
 
 
 <div style="display: inline_block"><br>
