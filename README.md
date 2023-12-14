@@ -1,8 +1,8 @@
-## Iae DEVES
+## Iae DEVES, sou João Sousa, seja bem vindo ao meu GitHub! 👨🏻‍💻
 
 
 <div style="display: inline_block"><br>
-     sou João Sousa, seja bem vindo ao meu GitHub! 👨🏻‍💻
+     
     Tecnologias e Ferramentas:
     <br>
     <br>
