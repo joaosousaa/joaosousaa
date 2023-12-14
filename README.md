@@ -1,4 +1,4 @@
-## Iae DEVS, sou João Sousa, seja bem vindo ao meu GitHub! 👨🏻‍💻
+## Iae Devs, sou João Sousa, seja bem vindo ao meu GitHub! 👨🏻‍💻
 
 
 <div style="display: inline_block"><br>
