@@ -4,7 +4,6 @@
 
 <img align="center" alt="Rafa-Js" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
 <img align="center" alt="TypeScript" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="center" alt="Node.js" height="30" width="40"
@@ -33,7 +32,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="center" alt="VS Code" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
 </div>
 
   ##
